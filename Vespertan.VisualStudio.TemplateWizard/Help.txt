@@ -1,0 +1,28 @@
+﻿Commands list:
+
+LowerFirstLetter TextDataWithoutQuote
+UpperFirstLetter TextDataWithoutQuote
+Lower TextDataWithoutQuote
+Upper TextDataWithoutQuote
+RemoveLastWord TextDataWithoutQuote
+SplitPascalCase TextDataWithoutQuote
+Replace -value TextData -oldValue TextData -newValue TextData
+ShowLabel -prompt TextData -defaultValue TextData -hide
+ShowTextBox -prompt TextData -defaultValue TextData -hide
+ShowCheckBox -prompt TextData -defaultValue TextData -hide -trueValue TextData(true) -falseValue(false) -nullValue(null) -isThreeState
+ShowComboBox -prompt TextData -defaultValue TextData -hide -separator(`) -values TextData -displayValues TextData -allowCustomText
+ShowListBox -prompt TextData -defaultValue TextData -hide -separator(`) -values TextData -displayValues TextData -maxHeight(500) -selectionMode(Single)[Single,Extended,Multiple]
+Foreach -list TextData -separator(`) -format({0})[0-item, 1-lowerFirstLeter, 2-upperFirstLetter, 3-lower, 4-upper] -leaveEmptyItems -sort[Asc,Desc] -regexPattern TextData -regexReplacment TextData -oneLineResult
+EndEditorsGroup
+SubString -value TextData -startIndex(0) -length 
+Length TextDataWithoutQuote
+SetDateTimeFormat TextDataWithoutQuote()[Empty - InvariantCulture]
+GetValue -assemblyName TextData -assemblyLocation TextData -className TextData -ctorParams TextData -ctorParamsType[byte, byte?, int, int?, long, long?, char, char?, double, double?, decimal, decimal?, Guid, Guid?, string(default)] TextData -methodName TextData -methodParams TextData -methodParamsType -propertyName TextData -isStatic -separator(`) -resultPropertyName TexData
+Execute -fileName TextData -args TextData -waitTime()[ms] -returnOutput -useShellExecute
+SaveText -fileName TextData -text TextData -append
+LoadText -fileName TextData
+DeleteFile -fileName TextData
+DecodeSpecialChars TextData
+EncodeSpecialChars TextData
+GetAllParams
+GetDateTime
