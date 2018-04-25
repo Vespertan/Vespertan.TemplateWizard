@@ -7,8 +7,8 @@
     <ProjectGuid>{B41C9F47-5E5D-4C90-873E-52F91B6D1DFC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Vespertan.VisualStudio.TemplateWizard</RootNamespace>
-    <AssemblyName>Vespertan.VisualStudio.TemplateWizard</AssemblyName>
+    <RootNamespace>Vespertan.TemplateWizard</RootNamespace>
+    <AssemblyName>Vespertan.TemplateWizard</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -79,9 +79,9 @@
     <Content Include="Help.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Vespertan.VisualStudio.Templates.Common\Vespertan.VisualStudio.TemplateWizard.Common.csproj">
+    <ProjectReference Include="..\Vespertan.VisualStudio.TemplateWizard.Common\Vespertan.TemplateWizard.Common.csproj">
       <Project>{50D5C72F-5773-4102-8298-99A697FA219A}</Project>
-      <Name>Vespertan.VisualStudio.TemplateWizard.Common</Name>
+      <Name>Vespertan.TemplateWizard.Common</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vespertan.VisualStudio.TemplateWizard", "Vespertan.VisualStudio.TemplateWizard\Vespertan.VisualStudio.TemplateWizard.csproj", "{B41C9F47-5E5D-4C90-873E-52F91B6D1DFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vespertan.TemplateWizard", "Vespertan.TemplateWizard\Vespertan.TemplateWizard.csproj", "{B41C9F47-5E5D-4C90-873E-52F91B6D1DFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vespertan.VisualStudio.TemplateWizard.CommonTests", "Vespertan.VisualStudio.TemplateWizardTests\Vespertan.VisualStudio.TemplateWizard.CommonTests.csproj", "{AB067376-6BA3-49D2-97BD-18C7C051BAF7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vespertan.TemplateWizard.CommonTests", "Vespertan.TemplateWizardTests\Vespertan.TemplateWizard.CommonTests.csproj", "{AB067376-6BA3-49D2-97BD-18C7C051BAF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vespertan.VisualStudio.TemplateWizard.Common", "Vespertan.VisualStudio.TemplateWizard.Common\Vespertan.VisualStudio.TemplateWizard.Common.csproj", "{50D5C72F-5773-4102-8298-99A697FA219A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vespertan.TemplateWizard.Common", "Vespertan.TemplateWizard.Common\Vespertan.TemplateWizard.Common.csproj", "{50D5C72F-5773-4102-8298-99A697FA219A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Vespertan.VisualStudio.TemplateWizard.Common")]
+[assembly: AssemblyTitle("Vespertan.TemplateWizard")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Vespertan.VisualStudio.TemplateWizard.Common")]
+[assembly: AssemblyProduct("Vespertan.TemplateWizard")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("50d5c72f-5773-4102-8298-99a697fa219a")]
+[assembly: Guid("b41c9f47-5e5d-4c90-873e-52f91b6d1dfc")]
 
 // Version information for an assembly consists of the following four values:
 //

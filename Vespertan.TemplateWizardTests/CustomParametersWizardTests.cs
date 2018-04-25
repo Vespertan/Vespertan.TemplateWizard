@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 using Microsoft.VisualStudio.TemplateWizard;
 using System.Globalization;
 using System.IO;
-using Vespertan.VisualStudio.TemplateWizard;
+using Vespertan.TemplateWizard;
 
-namespace Vespertan.VisualStudio.TemplateWizardTests
+namespace Vespertan.TemplateWizardTests
 {
     [TestClass()]
     public class CustomParametersWizardTests

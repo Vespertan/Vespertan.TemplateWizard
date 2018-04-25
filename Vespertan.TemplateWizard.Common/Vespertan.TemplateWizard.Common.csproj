@@ -7,8 +7,8 @@
     <ProjectGuid>{50D5C72F-5773-4102-8298-99A697FA219A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Vespertan.VisualStudio.TemplateWizard.Common</RootNamespace>
-    <AssemblyName>Vespertan.VisualStudio.TemplateWizard.Common</AssemblyName>
+    <RootNamespace>Vespertan.TemplateWizard.Common</RootNamespace>
+    <AssemblyName>Vespertan.TemplateWizard.Common</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

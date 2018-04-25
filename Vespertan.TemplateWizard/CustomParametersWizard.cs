@@ -11,9 +11,9 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.IO;
-using Vespertan.VisualStudio.TemplateWizard.Common;
+using Vespertan.TemplateWizard.Common;
 
-namespace Vespertan.VisualStudio.TemplateWizard
+namespace Vespertan.TemplateWizard
 {
     public class CustomParametersWizard : IWizard
     {

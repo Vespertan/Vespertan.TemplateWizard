@@ -1,12 +1,12 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Vespertan.VisualStudio.TemplateWizard;
+using Vespertan.TemplateWizard;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Vespertan.VisualStudio.TemplateWizardTests
+namespace Vespertan.TemplateWizardTests
 {
     [TestClass()]
     public class CommandInfoTests

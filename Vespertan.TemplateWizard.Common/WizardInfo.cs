@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Vespertan.VisualStudio.TemplateWizard.Common
+namespace Vespertan.TemplateWizard.Common
 {
     public static class WizardInfo
     {

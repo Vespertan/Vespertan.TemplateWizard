@@ -7,8 +7,8 @@
     <ProjectGuid>{AB067376-6BA3-49D2-97BD-18C7C051BAF7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Vespertan.VisualStudio.TemplateWizard.CommonTests</RootNamespace>
-    <AssemblyName>Vespertan.VisualStudio.TemplateWizard.CommonTests</AssemblyName>
+    <RootNamespace>Vespertan.TemplateWizard.CommonTests</RootNamespace>
+    <AssemblyName>Vespertan.TemplateWizard.CommonTests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -66,9 +66,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Vespertan.VisualStudio.Templates\Vespertan.VisualStudio.TemplateWizard.csproj">
+    <ProjectReference Include="..\Vespertan.VisualStudio.TemplateWizard\Vespertan.TemplateWizard.csproj">
       <Project>{B41C9F47-5E5D-4C90-873E-52F91B6D1DFC}</Project>
-      <Name>Vespertan.VisualStudio.TemplateWizard</Name>
+      <Name>Vespertan.TemplateWizard</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>
