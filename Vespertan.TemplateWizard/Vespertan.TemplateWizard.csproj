@@ -79,7 +79,7 @@
     <Content Include="Help.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Vespertan.VisualStudio.TemplateWizard.Common\Vespertan.TemplateWizard.Common.csproj">
+    <ProjectReference Include="..\Vespertan.TemplateWizard.Common\Vespertan.TemplateWizard.Common.csproj">
       <Project>{50D5C72F-5773-4102-8298-99A697FA219A}</Project>
       <Name>Vespertan.TemplateWizard.Common</Name>
     </ProjectReference>

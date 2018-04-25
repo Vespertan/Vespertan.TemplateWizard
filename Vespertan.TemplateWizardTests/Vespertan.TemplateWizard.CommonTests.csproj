@@ -66,7 +66,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Vespertan.VisualStudio.TemplateWizard\Vespertan.TemplateWizard.csproj">
+    <ProjectReference Include="..\Vespertan.TemplateWizard\Vespertan.TemplateWizard.csproj">
       <Project>{B41C9F47-5E5D-4C90-873E-52F91B6D1DFC}</Project>
       <Name>Vespertan.TemplateWizard</Name>
     </ProjectReference>
